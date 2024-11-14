@@ -83,6 +83,8 @@ end
 endcase
 end
 endmodule
+
+
 ![Screenshot 2024-10-05 163058](https://github.com/user-attachments/assets/10336cc9-db6e-4442-aa46-fba7f11b7708)
 
 
@@ -109,6 +111,8 @@ begin
 $monitor("Time=%0t | Lights (R Y G) = %b", $time, lights);
 end
 endmodule
+
+
 ![Screenshot 2024-10-05 163058](https://github.com/user-attachments/assets/675b786d-1392-4d04-bfb2-b755f2883718)
 
 
